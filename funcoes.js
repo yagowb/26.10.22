@@ -1,3 +1,6 @@
+const numero1 = document.querySelector(".numero1");
+const numero2 = document.querySelector(".numero2");
+
 
 function soma(x,y){
     return x+y;
