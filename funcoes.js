@@ -1,6 +1,6 @@
 
 function soma(){
-
+return x+y;
 }
 
 
@@ -21,5 +21,5 @@ function piso(){
 }
 
 function teto(){
-    
+
 }
