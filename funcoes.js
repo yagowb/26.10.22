@@ -16,6 +16,10 @@ function div(){
 
 }
 
-function piso(){}
+function piso(){
 
-function teto(){}
+}
+
+function teto(){
+    
+}
