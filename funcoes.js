@@ -1,25 +1,25 @@
 
-function soma(){
-return x+y;
+function soma(x,y){
+    return x+y;
 }
 
 
-function sub(){
-
+function sub(x,y){
+    return x-y;
 }
 
-function mul(){
-
+function mul(x,y){
+    return x*y;
 }
 
-function div(){
-
+function div(x,y){
+    return  x/y;
 }
 
-function piso(){
-
+function piso(x,y){
+    return Math.min(x,y);
 }
 
-function teto(){
-
+function teto(x,y){
+    return Math.max(x,y);
 }
