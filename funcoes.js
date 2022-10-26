@@ -23,3 +23,7 @@ function piso(x,y){
 function teto(x,y){
     return Math.max(x,y);
 }
+
+module.exports = {
+    soma, sub, mul, div, piso, teto
+}
